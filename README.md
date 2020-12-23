@@ -5,7 +5,7 @@ My name is **Vipin Baswan** and I’m a **final year CSE student at BITS Pilani*
 
 ## &#x1f4c8; Github Stats
 <a href="https://github.com/vipbaswan103/vipbaswan103">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipbaswan103&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipbaswan103&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=Jupyter%20notebook" />
 </a>
 <a href="https://github.com/vipbaswan103/vipbaswan103">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vipbaswan103&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vipin's GitHub Stats" />
